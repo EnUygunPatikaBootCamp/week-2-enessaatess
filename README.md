@@ -10,4 +10,4 @@ Touch: Eğer dosya varsa zaman damgasını(atime,mtime,ctime) değiştirir yoksa
 Mkdir: Yeni bir dizin oluşturmamızı sağlar.
 
 ## OBJECT ORIENTED PROGRAMMING
-[Kodlar]()
+[Kodlar](https://github.com/EnUygunPatikaBootCamp/week-2-enessaatess/blob/main/vehicle.php)
