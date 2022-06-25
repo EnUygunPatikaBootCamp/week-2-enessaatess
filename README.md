@@ -3,11 +3,11 @@ Yazılımcılar yeni bir geliştirme yapması gerektiğinde bunun bir standart o
 
 ## LINUX COMMANDS
 
-Tail : Dosyamızın isteğimiz satır kadar sondan görüntülememizi sağlar.
-Cat : Dosyamızın içeriğini komut satırı çıktısı(sdout) olarak görüntülememizi sağlar.
-Sudo : SuperUser Do olarak geçmektedir, kullanıcıların yönetici olarak bağlanmadan yöneticinin yapabileceği işleri yapmasını sağlar.
-Touch: Eğer dosya varsa zaman damgasını(atime,mtime,ctime) değiştirir yoksa yeni boş bir dosya oluşturmamızı sağlar.
-Mkdir: Yeni bir dizin oluşturmamızı sağlar.
+Tail : Dosyamızın isteğimiz satır kadar sondan görüntülememizi sağlar.<br/>
+Cat : Dosyamızın içeriğini komut satırı çıktısı(sdout) olarak görüntülememizi sağlar.<br/>
+Sudo : SuperUser Do olarak geçmektedir, kullanıcıların yönetici olarak bağlanmadan yöneticinin yapabileceği işleri yapmasını sağlar.<br/>
+Touch: Eğer dosya varsa zaman damgasını(atime,mtime,ctime) değiştirir yoksa yeni boş bir dosya oluşturmamızı sağlar.<br/>
+Mkdir: Yeni bir dizin oluşturmamızı sağlar.<br/>
 
 ## OBJECT ORIENTED PROGRAMMING
 [Kodlar](https://github.com/EnUygunPatikaBootCamp/week-2-enessaatess/blob/main/vehicle.php)
